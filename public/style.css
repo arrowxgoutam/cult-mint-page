@@ -1,0 +1,11 @@
+body{
+    background: url('./images/body-bg-1.png') !important;
+    background-size: cover;
+}
+
+.css-1rprtc2:nth-child(1){
+    color: rgb(21, 26, 31) !important;
+}
+.css-ucj12:nth-child(1){
+    color: rgb(21, 26, 31) !important;
+}

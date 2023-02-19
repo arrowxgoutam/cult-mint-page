@@ -1,1 +1,1 @@
-# cult-mint-page
+# Metaplex Candy Machine Reference UI
